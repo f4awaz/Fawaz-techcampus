@@ -1,2 +1,2 @@
-# Fawaz-techcampus
-print("D")
+welcome to Fawaz project
+
